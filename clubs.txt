@@ -1,5 +1,5 @@
-Manchester United
-Arsenal
+Manchester United, Nani, Scholes, Giggs
+Arsenal, Sagna, Eboue, Adebayor
 Chelsea
 Spurs
 Fulham
